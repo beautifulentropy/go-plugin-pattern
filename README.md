@@ -1,2 +1,2 @@
 # go-plugin-pattern
-demo for a blog post
+Demo repo for a blog post.
